@@ -1,0 +1,11 @@
+1.what is Js?
+=> Js is the programming language use for giving user experience to website and web applications.
+2.what is variable and how it is declared?
+=> variable are container use to store value of various data type.it is declared by
+the keyword var,let,const.
+3.what are the rules to declare variable?
+=>Variable names are can't have number at first.
+=>it does'nt contain space in between.
+=>It can use only to symbols (_,$).
+4.Latest keyword to declare variable?
+=> let,const.
