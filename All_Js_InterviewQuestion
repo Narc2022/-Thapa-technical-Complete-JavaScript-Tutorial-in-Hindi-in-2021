@@ -9,3 +9,5 @@ the keyword var,let,const.
 =>It can use only to symbols (_,$).
 4.Latest keyword to declare variable?
 => let,const.
+5.What is difference between null and undefined?
+=>null is the value it means no value & undefined is value not assigned.
