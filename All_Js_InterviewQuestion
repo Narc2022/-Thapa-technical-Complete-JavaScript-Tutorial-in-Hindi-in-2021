@@ -14,3 +14,16 @@ the keyword var,let,const.
 6.What is NaN?
 =>initial value is Not a Number.
 =>NaN is the property of the global object.
+
+/*****************Expression & Operators************************/
+
+7.What are the assignment operators?
+=>Assignment Operators assign a value to its left operend
+based on the value of its right operand.
+The simple Assignment operator is (=).
+***main=>An arithmatic operators takes numerical values (either literals or variables) as their operands and return a single numerical value.
+
+8. what is postfix and prefix in increment and decrement ?
+=> postfix first print expression and then do increment/decrement and prefix means first increment/decrement then print expression.
+
+
