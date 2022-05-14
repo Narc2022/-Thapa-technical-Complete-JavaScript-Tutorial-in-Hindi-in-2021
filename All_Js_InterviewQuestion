@@ -27,3 +27,15 @@ The simple Assignment operator is (=).
 => postfix first print expression and then do increment/decrement and prefix means first increment/decrement then print expression.
 
 
+/*****************NAMASTE JAVASCRIPT************************/
+What is global space in js?
+=>A space in which the variable store which are not inside the function is globle space.
+
+what is shortest program in js?
+=>Plain js file is shortest program in js.
+
+Is js is loosely type language?how?
+=>yes ,it variable can again re-assign any datatype data.
+
+what is undefined?
+=> it is keyword in js which means no data is assign.

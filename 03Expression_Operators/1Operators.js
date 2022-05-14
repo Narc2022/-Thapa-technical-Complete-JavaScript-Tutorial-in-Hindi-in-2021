@@ -34,7 +34,7 @@ var num = 15;
 var newNum = num++;  
 console.log(num);     //16 num is incremented
 console.log(newNum);  //15 first print then we see
-// pre fix 
+// prefix 
 var num = 15;
 var newNum = ++num;
 console.log(num);     //16
