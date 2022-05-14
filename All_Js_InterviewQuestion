@@ -27,7 +27,7 @@ The simple Assignment operator is (=).
 => postfix first print expression and then do increment/decrement and prefix means first increment/decrement then print expression.
 
 
-/*****************NAMASTE JAVASCRIPT************************/
+/*****************Advance JAVASCRIPT************************/
 What is global space in js?
 =>A space in which the variable store which are not inside the function is globle space.
 
